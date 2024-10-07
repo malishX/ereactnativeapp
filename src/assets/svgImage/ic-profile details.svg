@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="13" viewBox="0 0 14 13">
+  <g id="ic-profile_details" data-name="ic-profile details" transform="translate(0 -9)">
+    <g id="Group_7016" data-name="Group 7016">
+      <path id="Path_516" data-name="Path 516" d="M12.5,22H1.5A1.5,1.5,0,0,1,0,20.5v-10A1.5,1.5,0,0,1,1.5,9h11A1.5,1.5,0,0,1,14,10.5v10A1.5,1.5,0,0,1,12.5,22ZM1.5,10a.5.5,0,0,0-.5.5v10a.5.5,0,0,0,.5.5h11a.5.5,0,0,0,.5-.5v-10a.5.5,0,0,0-.5-.5Z" fill="#784da8"/>
+    </g>
+    <g id="Group_7020" data-name="Group 7020">
+      <g id="Group_7018" data-name="Group 7018">
+        <path id="Path_518" data-name="Path 518" d="M7,15a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,7,15Zm0-2a.5.5,0,1,0,.5.5A.5.5,0,0,0,7,13Z" fill="#784da8"/>
+      </g>
+      <g id="Group_7019" data-name="Group 7019">
+        <path id="Path_519" data-name="Path 519" d="M9.5,19a.5.5,0,0,1-.5-.5V18a1,1,0,0,0-1-1H6a1,1,0,0,0-1,1v.5a.5.5,0,0,1-1,0V18a2,2,0,0,1,2-2H8a2,2,0,0,1,2,2v.5A.5.5,0,0,1,9.5,19Z" fill="#784da8"/>
+      </g>
+    </g>
+  </g>
+</svg>

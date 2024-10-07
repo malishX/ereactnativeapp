@@ -1,0 +1,3 @@
+keystore info :
+alias:key0
+password:password

@@ -1,0 +1,66 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    ext {
+        buildToolsVersion = "33.0.1"
+        minSdkVersion = 24
+        compileSdkVersion = 34
+        targetSdkVersion = 33
+        supportLibversion= "28.0.0"
+        kotlinVersion = "1.9.20"
+
+        if (System.properties['os.arch'] == "aarch64") {
+            // For M1 Users we need to use the NDK 24 which added support for aarch64
+            ndkVersion = "24.0.8215888"
+        } else {
+            // Otherwise we default to the side-by-side NDK version from AGP.
+            ndkVersion = "21.4.7075529"
+        }
+    }
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath("com.android.tools.build:gradle:7.2.1")
+        classpath("com.facebook.react:react-native-gradle-plugin")
+        classpath("de.undercouch:gradle-download-task:5.0.1")
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        // JitPack repository for third-party libraries
+        // Maven Local (uncomment if needed)
+        // mavenLocal()
+    
+        mavenCentral()
+        // Repository for React Native binaries installed via npm
+        maven {
+            url("$rootDir/../node_modules/react-native/android")
+        }
+
+        // JCenter (this repository is deprecated, consider removing if not needed)
+        jcenter()
+
+        // Android JSC binaries from npm
+        maven {
+            url("$rootDir/../node_modules/jsc-android/dist")
+        }
+
+        // Maven Central repository, excluding specific React Native packages
+        mavenCentral {
+            content {
+                excludeGroup "com.facebook.react"
+            }
+        }
+        maven { url 'https://www.jitpack.io' }
+        // Google Maven repository (primary source for Android dependencies)
+        google()
+        // Optional additional Maven repository for specific libraries (uncomment if needed)
+        // maven { url 'https://maven.google.com' }
+    }
+}

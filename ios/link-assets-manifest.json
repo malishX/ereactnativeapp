@@ -1,0 +1,81 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Metropolis-Black.otf",
+      "sha1": "0b806ce10e950793a547fcc23d6ce71df4104e96"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-BlackItalic.otf",
+      "sha1": "c12e1fac5030b42313a0a6201ca7c2456e3932f3"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-Bold.otf",
+      "sha1": "335e5e57450f52a95b5bc3cd03d91071ef389c28"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-BoldItalic.otf",
+      "sha1": "8a0a5118a8861e32f72dcf495bd73213013321f2"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-ExtraBold.otf",
+      "sha1": "5ba5282242a60d98632201da852da566f365398e"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-ExtraBoldItalic.otf",
+      "sha1": "c5551a34faff337f7b30d37d8e8c5259526c71e5"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-ExtraLight.otf",
+      "sha1": "6ca6abc086c1b75e676e93aa10abb32ebf4c0e81"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-ExtraLightItalic.otf",
+      "sha1": "d6e389e3b696c26e8b2db24ad35392875e0c6e59"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-Light.otf",
+      "sha1": "e6651a2af53a77acbc2d19220c5af80bbfcc65dc"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-LightItalic.otf",
+      "sha1": "0a7e8c943602a95a1b6797839186f7e548ce357a"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-Medium.otf",
+      "sha1": "8d5181b06452ce20ac337391dc60b9dd07b083de"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-MediumItalic.otf",
+      "sha1": "907defe2aa0deb9b5433e54d357d03c36bd45014"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-Regular.otf",
+      "sha1": "dc10ba3cd5aea203f7d0f5af99e72163514a55d5"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-RegularItalic.otf",
+      "sha1": "d7ace372605f2e657e339d0e6414589b26db0ae4"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-SemiBold.otf",
+      "sha1": "4ebfc059e586c91d024d359f0ed3fc64d9ec4d2c"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-SemiBoldItalic.otf",
+      "sha1": "0ce339361d193e3e18ac0949242942867a1b129f"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-Thin.otf",
+      "sha1": "37f2a7b036ac541011cb175c5197056ae814d98f"
+    },
+    {
+      "path": "src/assets/fonts/Metropolis-ThinItalic.otf",
+      "sha1": "ae9856f75446fa706fef916252d349d64d8a93ef"
+    },
+    {
+      "path": "src/assets/fonts/SIL Open Font License.txt",
+      "sha1": "ba2b34fe417fc8124faef4c22443126748afffa7"
+    }
+  ]
+}

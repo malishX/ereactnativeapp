@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101.224" height="44.448" viewBox="0 0 101.224 44.448">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.03" y1="0.551" x2="0.07" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#feef4d"/>
+      <stop offset="1" stop-color="#ec9900"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fef86e"/>
+      <stop offset="1" stop-color="#f6c66e"/>
+    </linearGradient>
+    <filter id="Rectangle_210" x="0" y="0" width="101.224" height="32.338" filterUnits="userSpaceOnUse">
+      <feOffset dy="3.203" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.067" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7990" data-name="Group 7990" transform="translate(-4.936 -237)">
+    <g id="Group_7892" data-name="Group 7892" transform="translate(-356.257 -20.669)">
+      <path id="Path_4865" data-name="Path 4865" d="M386.417,283.6H364.4L389.8,302.117Z" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_7893" data-name="Group 7893" transform="translate(-7.862 1)">
+      <g transform="matrix(1, 0, 0, 1, 12.8, 236)" filter="url(#Rectangle_210)">
+        <rect id="Rectangle_210-2" data-name="Rectangle 210" width="94.819" height="25.933" transform="translate(3.2)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <text id="Bugra" transform="translate(23 253)" fill="#262626" font-size="13" font-family="Helvetica"><tspan x="0" y="0">Out of Stock</tspan></text>
+    </g>
+  </g>
+</svg>

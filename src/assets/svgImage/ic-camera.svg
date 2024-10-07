@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.5" height="14.591" viewBox="0 0 17.5 14.591">
+  <g id="ic-camera" transform="translate(0.75 0.75)">
+    <path id="Shape" d="M16,11.636a1.455,1.455,0,0,1-1.455,1.455H1.455A1.455,1.455,0,0,1,0,11.636v-8A1.455,1.455,0,0,1,1.455,2.182H4.364L5.818,0h4.364l1.455,2.182h2.909A1.455,1.455,0,0,1,16,3.636Z" transform="translate(0)" fill="#7146a2" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle id="Oval" cx="2.25" cy="2.25" r="2.25" transform="translate(5.75 4.958)" fill="#7146a2" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

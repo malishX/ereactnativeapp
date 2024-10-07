@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255287539925",
+    "project_id": "conektr-business",
+    "storage_bucket": "conektr-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255287539925:android:d3498233e71742307bca5c",
+        "android_client_info": {
+          "package_name": "com.conektr.pocketsales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255287539925-eq5u82o74ftui36bmfa8krr7gn1qcs8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "asefasdfasdfasdfawdf"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255287539925-eq5u82o74ftui36bmfa8krr7gn1qcs8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

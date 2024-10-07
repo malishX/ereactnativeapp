@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.5" height="17.5" viewBox="0 0 17.5 17.5">
+  <g id="ic-thumbnails_view" data-name="ic-thumbnails view" transform="translate(0.5 0.5)">
+    <g id="Group_6871" data-name="Group 6871">
+      <path id="Path_390" data-name="Path 390" d="M6.756,0H.346A.346.346,0,0,0,0,.346v6.41A.346.346,0,0,0,.346,7.1h6.41A.346.346,0,0,0,7.1,6.756V.346A.346.346,0,0,0,6.756,0Z" fill="none" stroke="#484848" stroke-width="1"/>
+      <path id="Path_391" data-name="Path 391" d="M61.154,0h-6.41A.346.346,0,0,0,54.4.346v6.41a.346.346,0,0,0,.346.346h6.41a.346.346,0,0,0,.346-.346V.346A.346.346,0,0,0,61.154,0Z" transform="translate(-44.999)" fill="none" stroke="#484848" stroke-width="1"/>
+      <path id="Path_392" data-name="Path 392" d="M6.756,54.4H.346A.346.346,0,0,0,0,54.744v6.41a.346.346,0,0,0,.346.346h6.41a.346.346,0,0,0,.346-.346v-6.41A.346.346,0,0,0,6.756,54.4Z" transform="translate(0 -44.999)" fill="none" stroke="#484848" stroke-width="1"/>
+      <path id="Path_393" data-name="Path 393" d="M61.154,54.4h-6.41a.346.346,0,0,0-.346.346v6.41a.346.346,0,0,0,.346.346h6.41a.346.346,0,0,0,.346-.346v-6.41A.346.346,0,0,0,61.154,54.4Z" transform="translate(-44.999 -44.999)" fill="none" stroke="#484848" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ic-logout" transform="translate(-0.335 -0.882)">
+    <path id="Path_507" data-name="Path 507" d="M7.335,19.882h-4a2,2,0,0,1-2-2v-14a2,2,0,0,1,2-2h4" fill="none" stroke="#262626" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_508" data-name="Path 508" d="M14.335,15.882l5-5-5-5" fill="none" stroke="#262626" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Path_509" data-name="Path 509" d="M19.335,10.882h-12" fill="none" stroke="#262626" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

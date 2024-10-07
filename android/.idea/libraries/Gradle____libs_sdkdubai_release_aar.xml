@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libs/sdkdubai-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d6b5bce5b25b5489d7e415430a4fff84/transformed/jetified-sdkdubai-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d6b5bce5b25b5489d7e415430a4fff84/transformed/jetified-sdkdubai-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d6b5bce5b25b5489d7e415430a4fff84/transformed/jetified-sdkdubai-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

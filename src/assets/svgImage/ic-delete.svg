@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.262" height="14.228" viewBox="0 0 13.262 14.228">
+  <g id="ic-delete" transform="translate(-17.379)">
+    <g id="Group_6880" data-name="Group 6880" transform="translate(17.379 1.865)">
+      <g id="Group_6879" data-name="Group 6879">
+        <g id="Group_6878" data-name="Group 6878">
+          <path id="Path_396" data-name="Path 396" d="M305.99,175.1l-.972-.047-.211,7.552.972.047Z" transform="translate(-296.704 -172.674)" fill="#262626"/>
+          <rect id="Rectangle_150" data-name="Rectangle 150" width="0.973" height="7.564" transform="translate(6.145 2.4)" fill="#262626"/>
+          <path id="Path_397" data-name="Path 397" d="M159.6,182.6l-.211-7.552-.972.047.211,7.552Z" transform="translate(-154.443 -172.667)" fill="#262626"/>
+          <path id="Path_398" data-name="Path 398" d="M17.379,76.867v1.139H18.54l.921,10.7a.562.562,0,0,0,.555.52h7.968a.562.562,0,0,0,.555-.52l.921-10.7h1.18V76.867Zm10.1,11.224H20.527l-.868-10.084h8.683Z" transform="translate(-17.379 -76.867)" fill="#262626"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_6882" data-name="Group 6882" transform="translate(21.61)">
+      <g id="Group_6881" data-name="Group 6881">
+        <path id="Path_399" data-name="Path 399" d="M161.065,0h-3.178a.812.812,0,0,0-.811.811v1.54h.973V.973H160.9V2.351h.973V.811A.812.812,0,0,0,161.065,0Z" transform="translate(-157.076)" fill="#262626"/>
+      </g>
+    </g>
+  </g>
+</svg>
